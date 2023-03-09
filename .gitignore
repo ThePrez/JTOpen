@@ -14,4 +14,6 @@
 *.#*
 .*.swp
 .DS_store
+bin/
+target/
 # Simulated Subversion default ignores end here
